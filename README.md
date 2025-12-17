@@ -39,7 +39,7 @@ See the folders:
 ## 📸 Workflow & Sample Output
 
 ### 🖼️ Automation Workflow
-![Workflow Screenshot](assets/workflow-screenshot.png)
+![Workflow Screenshot](assets/n8n-ai-maths-teacher.png)
 
 ### 📄 Sample Generated PDF
 👉 [Click here to view the generated maths solution PDF](assets/sample-output.pdf)
