@@ -42,7 +42,7 @@ See the folders:
 ![Workflow Screenshot](assets/n8n-ai-maths-teacher.png)
 
 ### 📄 Sample Generated PDF
-👉 [Click here to view the generated maths solution PDF](assets/sample-output.pdf)
+👉 [Click here to view the generated maths solution PDF](assets/n8n-ai-maths-teacher_op.pdf)
 
 ## 📌 Use cases
 
