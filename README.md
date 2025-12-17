@@ -36,6 +36,14 @@ See the folders:
 - `prompts/` – system prompts used by the AI agent
 - `examples/` – sample inputs and outputs
 
+## 📸 Workflow & Sample Output
+
+### 🖼️ Automation Workflow
+![Workflow Screenshot](assets/workflow-screenshot.png)
+
+### 📄 Sample Generated PDF
+👉 [Click here to view the generated maths solution PDF](assets/sample-output.pdf)
+
 ## 📌 Use cases
 
 - EdTech automation
